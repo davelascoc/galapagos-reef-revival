@@ -1,3 +1,10 @@
+<p align="left" style="margin-bottom: 30px;">
+  <a href="https://reefrevival.org/" target="_blank">
+    <img src="https://reefrevival.org/wp-content/uploads/2024/05/ReefRevival-Logo-1024x447.png"
+         width="400">
+  </a>
+</p>
+
 <h1>Galápagos Reef Revival – Data and Code Repository</h1>
 
 This repository hosts open data and analysis scripts with reproducible workflows associated with Galápagos Reef Revival research and related monitoring efforts. Data and code will be released progressively as related reports, preprints, and peer-reviewed publications become publicly available.
