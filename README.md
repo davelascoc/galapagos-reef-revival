@@ -31,8 +31,6 @@ Galapagos-Reef-Revival/
 │   ├── fish/
 │   └── inverts/
 │
-├── technical-reports/             technical reports for NGOs and the galapagos national park
-│
 └── README.md
 </pre>
 
