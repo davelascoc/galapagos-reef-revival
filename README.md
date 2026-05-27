@@ -26,15 +26,15 @@ Official website:
 <pre>
 Galapagos-Reef-Revival/
 │
-├── coral-monitoring/
-│   ├── pilot-project/
-│   │   ├── Code/        R scripts and Markdown files with analysis' workflows
-│   │   ├── Data/        raw and processed data of monitoring activities 
-│   │   ├── Images/      Coral monitoring, restoration, and biodiversity images
-│   │   └── Results/     images and tables
+├── coral-monitoring/    all related with coral growth, survival and health monitoring
+│   ├── pilot-project/       pilot project
+│   │   ├── Code/               R scripts and Markdown files with analysis' workflows
+│   │   ├── Data/               raw and processed data of monitoring activities 
+│   │   ├── Images/             Coral monitoring, restoration, and biodiversity images
+│   │   └── Results/            images and tables
 │   │
-│   ├── nurseries/
-│   └── corals_AI/
+│   ├── nurseries/           expansion phase nurseries
+│   └── corals_AI/           methods of AI to automate growth measurements
 │
 ├── biodiversity/
 │   ├── fish/
