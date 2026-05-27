@@ -1,22 +1,14 @@
 <h1>Galápagos Reef Revival – Data and Code Repository</h1>
 
-<p>
-  This repository hosts open data and analysis scripts with reproducible workflows associated
-  with Galápagos Reef Revival research and related monitoring efforts. Data and code will be released progressively
-  as related reports, preprints, and peer-reviewed publications become publicly available.
-</p>
+This repository hosts open data and analysis scripts with reproducible workflows associated with Galápagos Reef Revival research and related monitoring efforts. Data and code will be released progressively as related reports, preprints, and peer-reviewed publications become publicly available.
 
-<p>
   Galápagos Reef Revival is a collaborative coral research, restoration, and education initiative focused
   on protecting and restoring vulnerable coral ecosystems in Isabela Island, Galápagos. The project pioneered
   coral gardening efforts in the Galápagos Islands and continues to develop long-term coral monitoring,
   restoration, biodiversity assessments, and applied conservation research in the Eastern Tropical Pacific.
-</p>
 
-<p>
-  Official website:
-  <a href="https://reefrevival.org/" target="_blank">https://reefrevival.org/</a>
-</p>
+Official website:
+<a href="https://reefrevival.org/" target="_blank">https://reefrevival.org/</a>
 
 <hr>
 
@@ -27,6 +19,11 @@ Galapagos-Reef-Revival/
 │
 ├── coral-monitoring/
 │   ├── pilot-project/
+│   │   ├── Code/        R scripts and Markdown files with analysis' workflows
+│   │   ├── Data/        raw and processed data of monitoring activities 
+│   │   ├── Images/      Coral monitoring, restoration, and biodiversity images
+│   │   └── Results/     images and tables
+│   │
 │   ├── nurseries/
 │   └── corals_AI/
 │
@@ -34,23 +31,13 @@ Galapagos-Reef-Revival/
 │   ├── fish/
 │   └── inverts/
 │
-├── Code/              R Markdown and analysis workflow files
-├── Images/            Coral monitoring, restoration, and biodiversity images
-├── Results/           Outputs, figures, maps, and supplementary materials
-├── reports/           Technical reports and supporting documents
+├── technical-reports/             technical reports for NGOs and the galapagos national park
 │
 └── README.md
 </pre>
 
-<hr>
-
-<h2>Purpose</h2>
-
 <p>
-  The goal of this repository is to support transparency, reproducibility, collaboration,
-  and public access to the scientific outputs produced by Galápagos Reef Revival.
-  Because the project includes multiple research components, datasets and scripts will
-  continue to be organized and published as new scientific products are completed.
+Internal folder structures may vary among projects depending on the type of data, analyses, monitoring workflows, or publication outputs associated with each section.
 </p>
 
 <hr>
@@ -58,18 +45,11 @@ Galapagos-Reef-Revival/
 <h2>Data Availability</h2>
 
 <p>
-  Data availability may vary among folders depending on project stage and publication status.
-  Some sections may initially contain metadata, documentation, or preliminary summaries until
-  associated reports or manuscripts become publicly available.
-</p>
-
-<hr>
-
-<h2>Citation</h2>
-
-<p>
-  If you use data, code, figures, or materials from this repository, please cite the corresponding
-  report, preprint, publication, or dataset DOI when available.
+The goal of this repository is to support transparency, reproducibility, collaboration, and public access to the scientific outputs produced by Galápagos Reef Revival. Because the project includes multiple research components, datasets and scripts will continue to be organized and published as new scientific products are completed.
+  
+Data availability may vary among folders depending on project stage and publication status. Some sections may initially contain metadata, documentation, or preliminary summaries until associated reports or manuscripts become publicly available.
+  
+If you use data, code, figures, or materials from this repository, please cite the corresponding report, preprint, publication, or dataset DOI when available.
 </p>
 
 <hr>
