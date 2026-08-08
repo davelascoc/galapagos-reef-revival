@@ -5,7 +5,7 @@
   </a>
 </p>
 
-# Galápagos Reef Revival - Pilot Coral Nursery Study
+# Pilot Coral Nursery Study
 
 Data, code, figures, tables, and supporting material for the first assessment of coral growth, survival, and condition in a pilot *Pocillopora* nursery in the Galápagos Islands.
 
