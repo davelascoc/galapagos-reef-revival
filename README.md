@@ -20,6 +20,8 @@ Official website:
 </figure>
 
 <hr>
+Photography: ⓒ Nicolás Dávalos
+
 
 <h2>Repository Structure</h2>
 
