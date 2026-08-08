@@ -29,7 +29,7 @@ Photography: ⓒ Nicolás Dávalos
 Galapagos-Reef-Revival/
 │
 ├── coral-monitoring/    all related with coral growth, survival and health monitoring
-│   ├── pilot-project/       pilot project
+│   ├── pilot-study/       pilot project
 │   │   ├── Code/               R scripts and Markdown files with analysis' workflows
 │   │   ├── Data/               raw and processed data of monitoring activities 
 │   │   ├── Images/             Coral monitoring, restoration, and biodiversity images
