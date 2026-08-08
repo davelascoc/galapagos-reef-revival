@@ -68,8 +68,8 @@ If you use data, code, figures, or materials from this repository, please cite t
   </li>
 
   <li>
-    <strong>Margarita Brandt</strong> – Lead Scientist<br>
-    <a href="mailto:maggy@reefrevival.org">maggy@reefrevival.org</a>
+    <strong>Nicolas Davalos</strong> – Director<br>
+    <a href="mailto:nicolas@reefrevival.org">nicolas@reefrevival.org</a>
   </li>
 
   <li>
@@ -78,7 +78,7 @@ If you use data, code, figures, or materials from this repository, please cite t
   </li>
 
   <li>
-    <strong>Nicolas Davalos</strong> – Director<br>
-    <a href="mailto:nicolas@reefrevival.org">nicolas@reefrevival.org</a>
+    <strong>Margarita Brandt</strong> – Lead Scientist<br>
+    <a href="mailto:maggy@reefrevival.org">maggy@reefrevival.org</a>
   </li>
 </ul>
