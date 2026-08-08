@@ -5,7 +5,7 @@
   </a>
 </p>
 
-# Pilot Coral Nursery Study
+# About this repositoy
 
 Data, code, figures, tables, and supporting material for the first assessment of coral growth, survival, and condition in a pilot *Pocillopora* nursery in the Galápagos Islands.
 
@@ -13,46 +13,7 @@ This repository supports the study:
 
 > Dávalos, N., Velasco-Cedeño, D., & Brandt, M. (2026). First assessment of the physiological performance of nursery corals in the Galápagos Islands: seasonal impacts on *Pocillopora* (Scleractinia: Pocilloporidae) growth. *Revista de Biología Tropical, 74*(S1), e202610168. https://doi.org/10.15517/0xznfj40
 
-## About the study
-
-Coral communities in the Galápagos Islands experience strong seasonal and interannual environmental variability. This study evaluated how seasonal thermal conditions influenced the performance of nursery-grown *Pocillopora* corals in Puerto Villamil Bay, Isabela Island, Galápagos.
-
-The study combined:
-
-- a baseline survey of coral communities in Puerto Villamil Bay;
-- cultivation of 12 *Pocillopora* morphotypes in two rope nurseries;
-- photographic measurements of coral fragment growth;
-- monthly assessments of mortality and coral condition;
-- high-frequency in situ seawater temperature records; and
-- El Niño 1+2 sea-surface temperature anomalies from NOAA.
-
-The pilot nursery was established in January 2022 with 191 coral fragments. Fragment size was evaluated in January 2022, June 2022, and January 2023, allowing growth to be compared between the warm (January-May 2022) and cold (June-December 2022) seasons. Coral condition monitoring included the percentage of dead tissue, bleached tissue, and algal cover.
-
-## Main findings
-
-- *Pocillopora* represented 73.6% of the 3,569 hermatypic coral colonies recorded during the baseline survey.
-- Nursery temperatures ranged from 18.71 to 30.15 °C during persistent La Niña conditions.
-- Mean coral planar area increased from 6.40 ± 2.51 cm² in January 2022 to 27.75 ± 15.85 cm² in January 2023.
-- Overall survival in the nursery was 80%.
-- Relative and specific growth rates were higher during the warm season, whereas absolute planar-area growth was slightly higher during the cold season.
-- The cold season was associated with higher mortality, tissue loss, and algal overgrowth, with substantial variation among morphotypes.
-- These results indicate that coral gardening is feasible in Galápagos, but nursery design and restoration planning should explicitly account for seasonality and differences among donor colonies/morphotypes.
-
-## Data included
-
-The repository is intended to contain the datasets used to reproduce the analyses reported in the paper.
-
-| Dataset | Coverage | Description |
-| --- | --- | --- |
-| Coral baseline survey | Nov-Dec 2021 | Location, identity, size, and health condition of coral colonies surveyed in Puerto Villamil Bay |
-| Nursery growth | Jan 2022-Jan 2023 | Fragment identity, morphotype, planar area, maximum length, and derived growth metrics |
-| Coral condition | May-Dec 2022 | Mortality and estimates of dead tissue, bleaching, and algal cover |
-| In situ temperature | Jan-Dec 2022 | HOBO TidbiT temperature records collected at the nursery site at 10-min intervals |
-| ENSO conditions | 2022-early 2023 | Weekly El Niño 1+2 SST anomalies obtained from the NOAA Climate Prediction Center |
-
-The coral-condition percentages are derived from categorical field scores following Goergen et al. (2020), using the upper limit of each percentage interval as described in the paper.
-
-## Repository structure
+**Repository structure**
 
 The repository can be organized as follows:
 
@@ -73,13 +34,44 @@ galapagos-reef-revival/
 
 ```
 
-As the repository is finalized, raw data should be kept unchanged and all transformations required for analysis should be performed in reproducible scripts.
+# Our study
 
-## Analyses
+Coral communities in the Galápagos Islands experience strong seasonal and interannual environmental variability. This study evaluated how seasonal thermal conditions influenced the performance of nursery-grown *Pocillopora* corals in Puerto Villamil Bay, Isabela Island, Galápagos.
 
-The study calculated three complementary measures of coral growth: absolute growth rate (AGR), relative growth rate (RGR), and specific growth rate (SGR). Seasonal differences were evaluated using paired Student's *t*-tests and Cohen's *d*. Differences among morphotypes within each season were evaluated using Welch ANOVA followed by Games-Howell post-hoc comparisons. Linear regressions were used to examine relationships between cold-season growth and coral mortality or tissue loss.
+The study combined:
 
-Photographic measurements of coral planar area and maximum length were obtained using ImageJ.
+- a baseline survey of coral communities in Puerto Villamil Bay;
+- cultivation of 12 *Pocillopora* morphotypes in two rope nurseries;
+- photographic measurements of coral fragment growth;
+- monthly assessments of mortality and coral condition;
+- high-frequency in situ seawater temperature records; and
+- El Niño 1+2 sea-surface temperature anomalies from NOAA.
+
+The pilot nursery was established in January 2022 with 191 coral fragments. Fragment size was evaluated in January 2022, June 2022, and January 2023, allowing growth to be compared between the warm (January-May 2022) and cold (June-December 2022) seasons. Coral condition monitoring included the percentage of dead tissue, bleached tissue, and algal cover.
+
+**Main findings**
+
+- *Pocillopora* represented 73.6% of the 3,569 hermatypic coral colonies recorded during the baseline survey.
+- Nursery temperatures ranged from 18.71 to 30.15 °C during persistent La Niña conditions.
+- Mean coral planar area increased from 6.40 ± 2.51 cm² in January 2022 to 27.75 ± 15.85 cm² in January 2023.
+- Overall survival in the nursery was 80%.
+- Relative and specific growth rates were higher during the warm season, whereas absolute planar-area growth was slightly higher during the cold season.
+- The cold season was associated with higher mortality, tissue loss, and algal overgrowth, with substantial variation among morphotypes.
+- These results indicate that coral gardening is feasible in Galápagos, but nursery design and restoration planning should explicitly account for seasonality and differences among donor colonies/morphotypes.
+
+## Data
+
+The repository is intended to contain the datasets used to reproduce the analyses reported in the paper.
+
+| Dataset | Coverage | Description |
+| --- | --- | --- |
+| Coral baseline survey | Nov-Dec 2021 | Location, identity, size, and health condition of coral colonies surveyed in Puerto Villamil Bay |
+| Nursery growth | Jan 2022-Jan 2023 | Fragment identity, morphotype, planar area, maximum length, and derived growth metrics |
+| Coral condition | May-Dec 2022 | Mortality and estimates of dead tissue, bleaching, and algal cover |
+| In situ temperature | Jan-Dec 2022 | HOBO TidbiT temperature records collected at the nursery site at 10-min intervals |
+| ENSO conditions | 2022-early 2023 | Weekly El Niño 1+2 SST anomalies obtained from the NOAA Climate Prediction Center |
+
+The coral-condition percentages are derived from categorical field scores following Goergen et al. (2020), using the upper limit of each percentage interval as described in the paper.
 
 ## Funding and acknowledgements
 
