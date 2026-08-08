@@ -1,7 +1,7 @@
 <p align="left" style="margin-bottom: 30px;">
   <a href="https://reefrevival.org/" target="_blank">
     <img src="https://reefrevival.org/wp-content/uploads/2024/05/ReefRevival-Logo-1024x447.png"
-         width="400">
+         width="200">
   </a>
 </p>
 
