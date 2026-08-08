@@ -18,9 +18,9 @@ Official website:
   <img src="https://reefrevival.org/wp-content/uploads/2024/09/DSC_0418-1536x1017.jpg"
        width="50%">
 </figure>
+Photography: ⓒ Nicolás Dávalos
 
 <hr>
-Photography: ⓒ Nicolás Dávalos
 
 
 <h2>Repository Structure</h2>
