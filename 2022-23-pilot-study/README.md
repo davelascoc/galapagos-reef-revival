@@ -86,7 +86,10 @@ Weekly El Niño 1+2 SST anomalies were obtained from the NOAA Climate Prediction
 
 https://www.cpc.ncep.noaa.gov/data/indices/wksst9120.for
 
-## Citation
+## License & Citation
+
+The code in this repository is licensed under the MIT License.
+The data are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
 
 If you use material from this repository, please cite the associated publication:
 
@@ -100,4 +103,4 @@ https://doi.org/10.15517/0xznfj40
 
 ## Contact
 
-For questions about the study or repository, please contact the Galápagos Reef Revival research team through the author contact information provided in the associated publication.
+For questions about the study or repository, please contact the Galápagos Reef Revival research team through the author contact information provided in the publication.
