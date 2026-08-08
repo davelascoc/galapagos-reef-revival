@@ -63,13 +63,13 @@ galapagos-reef-revival/
 └── 2022-23-pilot-study/
     ├── README.md                     # information and reproducibility for this paper
     │
-    ├── data/
-    │   ├── raw/                      # Original datasets
-    │   └── processed/                # Cleaned and analysis-ready datasets
+    ├── Code/                         # Data processing and analysis scripts
     │
-    ├── code/                         # Data processing and analysis scripts
+    ├── Data/
+    │   ├── Raw/                      # Original datasets
+    │   └── Processed/                # Cleaned and analysis-ready datasets
     │
-    └── results/                      # Figures and main and supplementary tables generated from the analyses
+    └── Results/                      # Figures and main and supplementary tables generated from the analyses
 
 ```
 
