@@ -5,7 +5,8 @@
   </a>
 </p>
 
-# About this repositoy
+# Pilot Coral Nursery Study
+## About this repositoy
 
 Data, code, figures, tables, and supporting material for the first assessment of coral growth, survival, and condition in a pilot *Pocillopora* nursery in the Galápagos Islands.
 
@@ -34,7 +35,7 @@ galapagos-reef-revival/
 
 ```
 
-# Our study
+## Our study
 
 Coral communities in the Galápagos Islands experience strong seasonal and interannual environmental variability. This study evaluated how seasonal thermal conditions influenced the performance of nursery-grown *Pocillopora* corals in Puerto Villamil Bay, Isabela Island, Galápagos.
 
@@ -59,7 +60,7 @@ The pilot nursery was established in January 2022 with 191 coral fragments. Frag
 - The cold season was associated with higher mortality, tissue loss, and algal overgrowth, with substantial variation among morphotypes.
 - These results indicate that coral gardening is feasible in Galápagos, but nursery design and restoration planning should explicitly account for seasonality and differences among donor colonies/morphotypes.
 
-## Data
+### Data
 
 The repository is intended to contain the datasets used to reproduce the analyses reported in the paper.
 
@@ -73,13 +74,13 @@ The repository is intended to contain the datasets used to reproduce the analyse
 
 The coral-condition percentages are derived from categorical field scores following Goergen et al. (2020), using the upper limit of each percentage interval as described in the paper.
 
-## Funding and acknowledgements
+### Funding and acknowledgements
 
 The baseline survey, pilot nursery, and monitoring activities were supported by a Rufford Small Grant and Fundación de Conservación Jocotoco funding to Nicolás Dávalos, and by COCIBA and Galápagos Grants from Universidad San Francisco de Quito USFQ to Margarita Brandt.
 
 We acknowledge José L. Barrios Ponce and Cristopher Gómez, coral gardeners from the Galápagos Reef Revival team, for their contributions to the baseline survey, nursery assembly and maintenance, coral health monitoring, photographic sampling, and other field activities.
 
-## External data source
+### External data source
 
 Weekly El Niño 1+2 SST anomalies were obtained from the NOAA Climate Prediction Center:
 
