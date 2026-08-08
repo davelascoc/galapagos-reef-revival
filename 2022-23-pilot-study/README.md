@@ -94,11 +94,7 @@ The data are licensed under the Creative Commons Attribution 4.0 International (
 If you use material from this repository, please cite the associated publication:
 
 ```text
-Dávalos, N., Velasco-Cedeño, D., & Brandt, M. (2026).
-First assessment of the physiological performance of nursery corals in the
-Galápagos Islands: seasonal impacts on Pocillopora (Scleractinia:
-Pocilloporidae) growth. Revista de Biología Tropical, 74(S1), e202610168.
-https://doi.org/10.15517/0xznfj40
+Dávalos, N., Velasco-Cedeño, D., & Brandt, M. (2026). First assessment of the physiological performance of nursery corals in the Galápagos Islands: seasonal impacts on Pocillopora (Scleractinia: Pocilloporidae) growth. Revista de Biología Tropical, 74(S1), e202610168. https://doi.org/10.15517/0xznfj40
 ```
 
 ## Contact
