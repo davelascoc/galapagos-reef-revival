@@ -35,6 +35,8 @@ galapagos-reef-revival/
 
 ```
 
+- A brief guide to the code used in this research can be found <a href="https://davelascoc.github.io/galapagos-reef-revival/2022-23-pilot-study/Code/Corals_Pilot.html">here</a>.
+
 ## Our study
 
 Coral communities in the Galápagos Islands experience strong seasonal and interannual environmental variability. This study evaluated how seasonal thermal conditions influenced the performance of nursery-grown *Pocillopora* corals in Puerto Villamil Bay, Isabela Island, Galápagos.
