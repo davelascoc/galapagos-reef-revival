@@ -58,7 +58,7 @@ The goal of this repository is to support transparency, reproducibility, collabo
   
 Data availability may vary among folders depending on project stage and publication status. Some sections may initially contain metadata, documentation, or preliminary summaries until associated reports or manuscripts become publicly available.
   
-If you use data, code, figures, or materials from this repository, please cite the corresponding report, preprint, publication, or dataset DOI when available.
+If you use data, code, figures, or materials from this repository, please cite the corresponding report, thesis, preprint, publication, or dataset DOI when available.
 
 <hr>
 
