@@ -14,6 +14,8 @@ This repository supports the study:
 
 > Dávalos, N., Velasco-Cedeño, D., & Brandt, M. (2026). First assessment of the physiological performance of nursery corals in the Galápagos Islands: seasonal impacts on *Pocillopora* (Scleractinia: Pocilloporidae) growth. *Revista de Biología Tropical, 74*(S1), e202610168. https://doi.org/10.15517/0xznfj40
 
+- A brief guide to the code used in this research can be found <a href="https://davelascoc.github.io/galapagos-reef-revival/2022-23-pilot-study/Code/Corals_Pilot.html">here</a>.
+
 **Repository structure**
 
 The repository can be organized as follows:
@@ -34,8 +36,6 @@ galapagos-reef-revival/
     └── Results/                      # Figures and main and supplementary tables generated from the analyses
 
 ```
-
-- A brief guide to the code used in this research can be found <a href="https://davelascoc.github.io/galapagos-reef-revival/2022-23-pilot-study/Code/Corals_Pilot.html">here</a>.
 
 ## Our study
 
