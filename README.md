@@ -25,6 +25,10 @@ Photographies: ⓒ Daniel Velasco & Nicolás Dávalos
 
 <h2>Repository Structure</h2>
 
+Internal folder structures may vary among projects depending on the type of data, analyses, monitoring workflows, or publication outputs associated with each section.
+
+- Information about the pilot project is <a href="https://davelascoc.github.io/galapagos-reef-revival/2022-23-pilot-study">here</a>.
+
 <pre>
 Galapagos-Reef-Revival/
 │
@@ -45,7 +49,6 @@ Galapagos-Reef-Revival/
 └── README.md
 </pre>
 
-Internal folder structures may vary among projects depending on the type of data, analyses, monitoring workflows, or publication outputs associated with each section.
 
 <hr>
 
