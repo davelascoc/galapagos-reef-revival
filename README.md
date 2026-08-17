@@ -15,10 +15,10 @@ Official website:
 <a href="https://reefrevival.org/" target="_blank">https://reefrevival.org/</a>
 
 <figure align="center" style="margin-bottom: 30px;">
-  <img src="https://reefrevival.org/wp-content/uploads/2024/09/DSC_0418-1536x1017.jpg"
-       width="50%">
+  <img src="GRR_research.jpg"
+       width="100%">
 </figure>
-Photography: ⓒ Nicolás Dávalos
+Photographies: ⓒ Daniel Velasco & Nicolás Dávalos
 
 <hr>
 
@@ -82,3 +82,10 @@ If you use data, code, figures, or materials from this repository, please cite t
     <a href="mailto:maggy@reefrevival.org">maggy@reefrevival.org</a>
   </li>
 </ul>
+
+
+<figure align="center" style="margin-bottom: 30px;">
+  <img src="https://reefrevival.org/wp-content/uploads/2024/09/DSC_0418-1536x1017.jpg"
+       width="50%">
+</figure>
+Photography: ⓒ Nicolás Dávalos
