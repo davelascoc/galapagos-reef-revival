@@ -18,7 +18,7 @@ Official website:
   <img src="GRR_research.jpg"
        width="100%">
 </figure>
-Photography: ⓒ Daniel Velasco & Nicolás Dávalos
+Photographies: ⓒ Daniel Velasco & Nicolás Dávalos
 
 <hr>
 
