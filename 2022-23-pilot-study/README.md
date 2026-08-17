@@ -6,7 +6,7 @@
 </p>
 
 # Pilot Coral Nursery Study
-## About this repositoy
+## About this repository
 
 Data, code, figures, tables, and supporting material for the first assessment of coral growth, survival, and condition in a pilot *Pocillopora* nursery in the Galápagos Islands.
 
@@ -60,7 +60,7 @@ The pilot nursery was established in January 2022 with 191 coral fragments. Frag
 - Overall survival in the nursery was 80%.
 - Relative and specific growth rates were higher during the warm season, whereas absolute planar-area growth was slightly higher during the cold season.
 - The cold season was associated with higher mortality, tissue loss, and algal overgrowth, with substantial variation among morphotypes.
-- These results indicate that coral gardening is feasible in Galápagos, but nursery design and restoration planning should explicitly account for seasonality and differences among donor colonies/morphotypes.
+- Coral gardening is feasible in Galápagos, but nursery and restoration planning should account for seasonality and differences among donor colonies/morphotypes.
 
 ### Data
 
@@ -72,21 +72,9 @@ The repository is intended to contain the datasets used to reproduce the analyse
 | Nursery growth | Jan 2022-Jan 2023 | Fragment identity, morphotype, planar area, maximum length, and derived growth metrics |
 | Coral condition | May-Dec 2022 | Mortality and estimates of dead tissue, bleaching, and algal cover |
 | In situ temperature | Jan-Dec 2022 | HOBO TidbiT temperature records collected at the nursery site at 10-min intervals |
-| ENSO conditions | 2022-early 2023 | Weekly El Niño 1+2 SST anomalies obtained from the NOAA Climate Prediction Center |
+| ENSO conditions | 2022-early 2023 | Weekly El Niño 1+2 SST anomalies obtained from the [NOAA Climate Prediction Center](https://www.cpc.ncep.noaa.gov/data/indices/wksst9120.for) |
 
 The coral-condition percentages are derived from categorical field scores following Goergen et al. (2020), using the upper limit of each percentage interval as described in the paper.
-
-### Funding and acknowledgements
-
-The baseline survey, pilot nursery, and monitoring activities were supported by a Rufford Small Grant and Fundación de Conservación Jocotoco funding to Nicolás Dávalos, and by COCIBA and Galápagos Grants from Universidad San Francisco de Quito USFQ to Margarita Brandt.
-
-We acknowledge José L. Barrios Ponce and Cristopher Gómez, coral gardeners from the Galápagos Reef Revival team, for their contributions to the baseline survey, nursery assembly and maintenance, coral health monitoring, photographic sampling, and other field activities.
-
-### External data source
-
-Weekly El Niño 1+2 SST anomalies were obtained from the NOAA Climate Prediction Center:
-
-https://www.cpc.ncep.noaa.gov/data/indices/wksst9120.for
 
 ### License & Citation
 
